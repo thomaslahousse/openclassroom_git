@@ -43,6 +43,25 @@
 		<img src="images/yuya.jpg" alt="yuya" id="yuya">
 	</div>
 </section>
-
+<div class="corps_cv">
+	<section>
+		<div class="titre_categorie">
+			FORMATION SCOLAIRE
+		</div>
+		<div class="infos_categorie">
+			<img src="images/galaxy.jpg" class="galaxy">
+				2017- 30 février au fin juin: formation Popschool </br>
+			<img src="images/galaxy.jpg" class="galaxy">
+				2015-2016 : BTS-SIO Première année Option SLAM (Services Informatiques aux Organisations) Lycée Privée Dampierre </br>
+			<img src="images/galaxy.jpg" class="galaxy">
+				2014-2015 : BTS-SIO Première année Option SISR (Services Informatiques aux Organisations) Lycée Privée Dampierre </br>
+			<img src="images/galaxy.jpg" class="galaxy">
+				2013-2014 : Bac Pro Terminal EDPI (Etude et Définition de Produits Industriels) Lycée du Hainaut </br>
+			<img src="images/galaxy.jpg" class="galaxy">
+				2012-2013 : Bac Pro Première EDPI Etude et Définition de Produits Industriels) Lycée du Hainaut </br>
+			<img src="images/galaxy.jpg" class="galaxy">
+				2011-2012 : Bac Pro Seconde EDPI Etude et Définition de Produits Industriels) Lycée du Hainaut </br>
+		</div>
+	</section>
 <body>
 </html>
