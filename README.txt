@@ -25,6 +25,24 @@
 </div>
 <!--			fin de navigation		-->
 
+<header>
+	<div> thomas lahousse </div>
+</header>
+
+<section id="infos_et_images">
+	<div class="infos_perso">
+		<img src="images/galaxy.jpg" class="galaxy"> Lahousse Thomas </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 27 mars 1995 </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 44 rue pierre Brossolette </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 03 27 46 74 20 </br>
+		<img src="images/galaxy.jpg" class="galaxy"> Bruay sur escaut </br>
+		<img src="images/galaxy.jpg" class="galaxy"> lahoussethomass@gmail.com </br>
+		 necromancienlahousse@gmail.com </br>
 	</div>
+	<div id="yuya">
+		<img src="images/yuya.jpg" alt="yuya" id="yuya">
+	</div>
+</section>
+
 <body>
 </html>
