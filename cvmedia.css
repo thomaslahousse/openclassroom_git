@@ -1,0 +1,210 @@
+#background_body {
+	background-image: url('images/images_galaxy.jpg');
+	background-size: cover;
+}
+
+#fond_cv {
+	background-color: rgba(0, 0, 255, 0.60);
+	margin-left:150px;
+	margin-right: 150px;
+	padding-top: 20px;
+}
+nav {
+	position: absolute;
+	margin-left: 15px;
+}
+#bandeau_nav img{
+	float: left;
+	width: 80px;
+	height: 620px;
+	position: fixed;
+}
+nav .logo {
+	position: fixed;
+}
+nav .logo img{
+	width: 50px;
+	height: 50px;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+header div{
+	background-image: url('images/images_7_couleurs.jpg');
+	border: 1px solid red;
+	border-radius: 10px;
+	text-align: center;
+	width: 30%;
+	margin: auto;
+	font-size: 40px;
+}
+#infos_et_images {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.galaxy {
+	width: 10px;
+}
+section #yuya img{
+	width: 100px;
+}
+.corps_cv {
+	margin-top: 40px;
+	padding-bottom: 10px;
+}
+.titre_categorie {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 20px;
+}
+.infos_categorie {
+	margin-left: 40px;
+	padding-left: 20px;
+}
+.nav_2 {
+	display: none;
+}
+@media screen and (max-width: 650px) {
+	.nav_1 #bandeau_nav {
+		display: none;
+	}
+	.nav_1 .logo {
+		display: none;
+	}
+	.nav_2 {
+	display: block;
+	}
+}
+@media screen and (max-width: 650px) {
+	#fond_cv {
+		margin-left:5px;
+		margin-right: 5px;
+	}
+	header div{
+		width: 80%;
+		font-size: 30px;
+	}
+	#infos_et_images {
+		margin-top: 20px;
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	section #yuya img{ 
+		width: 50px;
+		float: right;
+	}
+	.titre_categorie {
+		text-align: center;
+		font-size: 25px;
+		margin-top: 15px;
+		margin-bottom: 10px;
+	}
+	.infos_categorie {
+		margin-left: 10px;
+		padding-left: 10px;
+		font-size: 12px;
+	}
+					/* 2 eme navigation	*/
+	.nav_2 {
+		background-image: url('images/images_fleurs.jpg');
+		height: 30px;
+		padding-top: 10px;
+	}
+	.nav_2 .logo_2 {
+		display: flex;
+		justify-content: space-around;
+	}
+	.nav_2 .logo_2 img{
+		width: 25px;
+		height: 25px;
+		border-radius: 5px;
+		justify-content: space-between;
+	}
+				/* fin navigation */
+}
+
+@media screen and (min-width: 651px) and (max-width: 768px) {
+	#fond_cv {
+		margin-left:100px;
+		margin-right: 30px;
+	}
+	header div{
+		width: 50%;
+		font-size: 35px;
+	}
+	#infos_et_images {
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	section #yuya img{ 
+		width: 80px;
+	}
+	.titre_categorie {
+		text-align: center;
+		font-size: 25px;
+		margin-top: 15px;
+		margin-bottom: 10px;
+	}
+	.infos_categorie {
+		margin-left: 10px;
+		padding-left: 10px;
+		font-size: 12px;
+	}
+}
+@media screen and (min-width: 769px) and (max-width: 800px) {
+	#fond_cv {
+		margin-left:100px;
+		margin-right: 30px;
+	}
+	header div{
+		width: 50%;
+		font-size: 30px;
+	}
+}
+@media screen and (min-width: 801px) and (max-width: 980px) {
+	#fond_cv {
+		margin-left:110px;
+		margin-right: 80px;
+	}
+	header div{
+		width: 50%;
+		font-size: 35px;
+	}
+	#infos_et_images {
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	section #yuya img{ 
+		width: 100px;
+	}
+	.titre_categorie {
+		text-align: center;
+		font-size: 25px;
+		margin-top: 15px;
+		margin-bottom: 10px;
+	}
+	.infos_categorie {
+		margin-left: 10px;
+		padding-left: 10px;
+		font-size: 12px;
+	}
+}
+@media screen and (min-width: 981px) and (max-width: 1195px) {
+	header div{
+		width: 40%;
+		font-size: 35px;
+	}
+}
+@media screen and (max-width: 317px) {
+	#infos_et_images .infos_perso {
+		font-size: 10px;
+	}
+}
