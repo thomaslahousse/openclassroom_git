@@ -101,5 +101,19 @@
 	</div>
 </section>
 </div>
+<!--			debut de navigation		-->
+<div class="nav_2">
+<div class="logo_2">
+<a href="https://www.facebook.com/ThomasLahousseNecromancien" target="_blank"> <img src="logo/logo facebook.png"> </a>
+<a href="https://twitter.com/thomaslahousse" target="_blank"> <img src="logo/logo twitter.jpg"> </a>
+<a href="" target="_blank"> <img src="logo/logo snapchat.png"> </a>
+<a href="" target="_blank"> <img src="logo/logo instagram.png"> </a>
+<a href="https://www.youtube.com/channel/UCknlSfG3BaqEPMPPUwjU6tQ" target="_blank"> <img src="logo/logo youtube.png"> </a>
+<a href="necromancienlahousse@gmail.com" target="_blank"> <img src="logo/logo gmail.png"></a>
+</div>
+</div>
+<!--			fin de navigation		-->
+
+</div>
 <body>
 </html>
