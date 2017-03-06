@@ -63,5 +63,43 @@
 				2011-2012 : Bac Pro Seconde EDPI Etude et Définition de Produits Industriels) Lycée du Hainaut </br>
 		</div>
 	</section>
+	<div class="titre_categorie">
+		EXPERIENCES PROFESSIONNELLES
+	</div>
+	<div class="infos_categorie">
+		<img src="images/galaxy.jpg" class="galaxy">
+		2015 – 25 mai au 5 juillet : STAGE : Mairie de Bruay sur Escaut. Informatique </br>
+		<img src="images/galaxy.jpg" class="galaxy">
+		2014 : STAGE : EPEI d’Anzin (Conception industrielle) </br>
+		<img src="images/galaxy.jpg" class="galaxy">
+		2013 : STAGE : EPEI d’Anzin (Conception industrielle) </br>
+		<img src="images/galaxy.jpg" class="galaxy">
+		2012 : STAGE : AGRATI de Vieux Condé (Conception industrielle) </br>
+	</div>
+</section>
+
+<section>
+	<div class="titre_categorie">
+		DIPLOMES/BREVETS
+	</div>
+	<div class="infos_categorie">
+		<img src="images/galaxy.jpg" class="galaxy"> 2013-2014 : Baccalauréat EDPI (études et définitions de produit industriel) </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 2011 : Brevet des Collèges </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 2011 : ASSR2, B2i </br>
+		<img src="images/galaxy.jpg" class="galaxy"> 2008 : ASSR1 </br>
+	</div>
+</section>
+
+<section>
+	<div class="titre_categorie">
+		COMPETENCES DIVERS
+	</div>
+	<div class="infos_categorie">
+		<img src="images/galaxy.jpg" class="galaxy"> Maitrise logiciels : SolidWorks </br>
+		<img src="images/galaxy.jpg" class="galaxy"> Langage Informatique : Java, JavaScript, PHP, html , python </br>
+		<img src="images/galaxy.jpg" class="galaxy"> Langue : anglais (niveau débutant) </br>
+	</div>
+</section>
+</div>
 <body>
 </html>
